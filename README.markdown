@@ -1,1 +1,1 @@
-Medium digest site
+Medium Digest Site
