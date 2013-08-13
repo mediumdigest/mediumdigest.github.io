@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tech | Medium 精选]]></title>
+  <link href="http://mediumdigest.github.io/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://mediumdigest.github.io/"/>
+  <updated>2013-08-13T02:05:58-07:00</updated>
+  <id>http://mediumdigest.github.io/</id>
+  <author>
+    <name><![CDATA[Medium Digest]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[全民黑客时代]]></title>
+    <link href="http://mediumdigest.github.io/2013/08/12/moving-beyond-code/"/>
+    <updated>2013-08-12T21:48:00-07:00</updated>
+    <id>http://mediumdigest.github.io/2013/08/12/moving-beyond-code</id>
+    <content type="html"><![CDATA[<p><img src="http://mediumdigest.github.io/images/2013-08-12-moving-beyond-code.jpeg" /></p>
+
+<blockquote><p>“学习编写程序，不但可以延伸你的心灵，更有助于你去思考，去创造，无论身在任何领域，对你都是有益的。”——比尔盖茨</p></blockquote>
+
+<p>Coding 可拓展你的思维，Coding 能让你如虎添翼，Coding 还是有利可图的。</p>
+
+<p>But！Coding 也被高估了。Coding 发生在最近几十年，物质与精神生活发展飞速，正是因为这样的原因，Coding 的作用，被高估了。</p>
+
+<p>不要吵，听我分析：</p>
+
+<blockquote><p>∵ 软件代码是未来的语言</p>
+
+<p>∴ Coding 则是未来的必备技能</p>
+
+<p>∴ 如果想要长远发展，必须要学会一两件跟 Coding 有关的事情。</p></blockquote>
+
+<p>这样推论对吗？</p>
+
+<p>但是这样的情况导致了如下两个结果：</p>
+
+<p>1) 进入学校开始就已定笃定自己职业生涯一定会从事软件开发相关工作的人，即使他们本来所擅长的东西在别处。
+2) 那些已经毕业的，非软件编程出身的人，都明确或者默默的感觉自己逊色于程序猿们。</p>
+
+<p>在我看来，这两种反应已经过度了（似乎全球经济也有以代码为中心的趋势）。</p>
+
+<p>信仰，经济，世界，未来，都将要围绕着代码吗？那未来世界岂不是现实版本的黑客帝国！但事实并非如此，程序猿们醒醒吧！人类才是推动世界的力量，我们的生态系统，经济，社会和正是角色，都是以人为本，任何事物，从古代的火种，到现在的代码，都不过是人类手中促进发展的工具。</p>
+
+<p>在我的 MBA 课程里，有一个团队会做很厉害的 PPT，但是他们的队长告诉我，这是他们团队中一个本职是心脏外科医生的人做的。我被深深的震惊了。他还告诉我，这名医生以前甚至做过图形设计师。当时我就想，如果这位有才的医生还会 Coding，那么他的能量，将不仅仅于此，如果他不但会建网站，还会调试脚本，下载使用 jQuery 插件，甚至会在 excel 里使用宏，到时，他依然是一个医生，但又不仅仅是一个医生了，假如他能把这些高科技用在病房里，能量将会多么的巨大。</p>
+
+<p>21 世纪要求各种复合型人才，最好上得了厅堂，下得了厨房，写得了代码，查得出异常，杀得了木马，翻得了围墙，开得起好车，买得起新房。而代码，将会变成弥合差异的胶水，去解决我们的问题。</p>
+
+<p>JavaEEE 奇才或 Django 大师，再或者是 Objective-C 很牛掰，这些技能和证书，必然是很难掌握的，但是真正要有用的，推动世界前进的，仅仅是技术，是不够的，要成为真正的创意解决明天的大问题，则还需要把别的东西用技术表达出来。</p>
+
+<p>你看懂本篇的中心思想了么？我来总结下吧：</p>
+
+<p>1) 如果你是一个程序员，最好学习一下别的领域的知识，不管是设计、音乐、世界经济、社会企业或者针织，这将会打开你的可能性，少年，用你的技术，出发吧！去解决这个世界的问题。</p>
+
+<p>2) 如果你不会 Coding，那么学会一些基本的 Coding 技能非常必要，这将会把你解决问题的能力新上一个台阶。甚至会赋予你全新的看待问题和人才的角度，或是给你新的创造的激情。</p>
+
+<p>来吧，全民黑客时代！</p>
+
+<p>翻译by <a href="http://www.36kr.com/kryptoners">kryptoners</a>
+<a href="https://medium.com/teaching-learning/6d23e812348">Medium 来源</a></p>
+]]></content>
+  </entry>
+  
+</feed>
