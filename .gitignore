@@ -1,0 +1,11 @@
+.rvmrc
+.DS_Store
+.sass-cache
+source/_stash
+source/stylesheets/screen.css
+.gist-cache
+.pygments-cache
+vendor
+_deploy
+public
+.bundle
